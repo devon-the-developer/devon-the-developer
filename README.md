@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a full stack developer.
+
+I'm currently learning more about CyberSecurity by studing towards a Diploma.
+I have achieved my Sec+ Certification from CompTIA (Security+) and am currently working on getting my CySA+ (CyberSecurity Analyst+).
+
+You can also find my blog posts and other portfolio work at my website [Oxynerd.com](https://oxynerd.com)
+
 <!--
 **devon-the-developer/devon-the-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
