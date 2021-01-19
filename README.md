@@ -7,6 +7,8 @@ I have achieved my Sec+ Certification from CompTIA (Security+) and am currently 
 
 You can also find my blog posts and other portfolio work at my website [Oxynerd.com](https://oxynerd.com)
 
+<img src="wave (2).svg" />
+
 <!--
 **devon-the-developer/devon-the-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
