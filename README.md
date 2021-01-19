@@ -7,7 +7,7 @@ I have achieved my Sec+ Certification from CompTIA (Security+) and am currently 
 
 You can also find my blog posts and other portfolio work at my website [Oxynerd.com](https://oxynerd.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devon-the-developer)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devon-the-developer&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="wave (2).svg" />
