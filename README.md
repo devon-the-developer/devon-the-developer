@@ -4,7 +4,7 @@ I'm a full stack developer.
 
 - I'm studing towards a CyberSecurity Diploma.
 - 😄 I have achieved my CySA+ (Analyst+) & Sec+ (Security+) Certifications from CompTIA
-- 🔭 I’m currently working on getting my eJPT (elearning Junior Penetration Tester) Certifcation.
+- 🔭 I’m currently working on getting my eJPT (eLearnSecurity Junior Penetration Tester) Certifcation.
 - 🌱 I’m currently learning python, flutter & firebase
 
 You can also find my blog posts and other portfolio work at my website [Oxynerd.com](https://oxynerd.com)
